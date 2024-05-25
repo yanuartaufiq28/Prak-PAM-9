@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "453299325160",
+    "project_id": "prak-firebase-pam-9",
+    "storage_bucket": "prak-firebase-pam-9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453299325160:android:40d2fb3e6aa79478b1e15d",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6T-hqymFQQLD9wyjhyNnzTU6eIvXAbys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453299325160:android:7cddccc6ec16682cb1e15d",
+        "android_client_info": {
+          "package_name": "com.example.listbuku"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6T-hqymFQQLD9wyjhyNnzTU6eIvXAbys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
